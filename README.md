@@ -16,5 +16,7 @@
 - Numero 5
 
 ~~{¿Cuál es su arquitectura/stack simple?}~~ No se que poner xd
+
 ~~{¿Qué funciones son indispensables?}~~ x2 de lo de arriba
+
 ~~{¿Quién será responsable de construir qué parte?}~~ x3
