@@ -3,6 +3,7 @@
 
 {Solución} Bueno con **Kaizen Code** eso ya no será un problema. La nueva IA bancaria te ayudará con tus movimientos de dinero, con un asistente 24/7 para ayudarte...
 
-![Prototipo](https://github.com/DennysJ/Prueba1/blob/main/Protottipo.jpg "Prototipo")
+<img src="https://github.com/DennysJ/Prueba1/blob/main/Protottipo.jpg" alt="Prototipo" width="400">
+
 
 {Tecnología} Kaizen Code esta desarrollado a traves de Node.js, con la API de Open Payments de Interledger...
